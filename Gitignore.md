@@ -1,1 +1,5 @@
-*.mp4 *.mkv *.mov .DS_Store Thumbs.db
+*.mp4
+*.mkv
+*.mov
+.DS_Store
+Thumbs.db
